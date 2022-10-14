@@ -2,6 +2,6 @@ footer .footer-main #foot-main {
     background-color: black;
 }
 .img-max {
-    max-height: 700px;
-    width: 100%;
+    max-width: 500px;
+    width:100%;
   }
